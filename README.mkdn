@@ -25,6 +25,13 @@ Once it's installed, you can just type this into Alfred:
 ...and the script will put the symbol in your clipboard **⌘**.  Paste on, young
 soldier!
 
+Copy Vertical Ellipsis to Clipboard
+----------------------------------
+
+Copies the ⋮ character to the clipboard.
+
+    vertical-ellipsis
+
 
 iCal Quick Entry
 ----------------
